@@ -1,7 +1,7 @@
 Steps followed to update my profile for jobs
 
 Generate content using ChatGPT 
---prompt
+--prompt 
 I need to fill out my linkedin based on this profile, I am a new student graduate,
 
 make my profile professional 
