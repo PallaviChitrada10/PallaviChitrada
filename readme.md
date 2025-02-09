@@ -1,66 +1,43 @@
-🚀 Pallavi Chitrada | AI & Data Science Enthusiast
-🔹 Computer Science Graduate | Machine Learning | NLP | Cybersecurity | Cloud Computing
+Pallavi Chitrada 
+Data Analyst | Machine Learning Enthusiast | Python, R, SQL | Healthcare Analytics | Data Visualization | Computer Science Graduate
 
-🌟 About Me
-Hi there! I’m Pallavi Chitrada, a Computer Science graduate passionate about AI, Machine Learning, and Data Science. I love solving real-world challenges with Deep Learning, NLP, and Predictive Analytics while leveraging Cloud Security & Cybersecurity to build robust and scalable solutions.
+Computer Science Master's Graduate with a strong foundation in data science, machine learning, and analytics, complemented by hands-on experience in healthcare analytics, image processing, and cloud security. Proficient in Python, R, SQL, Power BI, Tableau, and advanced statistical modeling techniques. Passionate about leveraging data-driven insights to support decision-making, enhance efficiency, and drive innovation.
 
-🔹 Currently seeking opportunities in AI, ML, Data Science, and Cloud Security
-🔹 Passionate about Healthcare Analytics, Cybersecurity, and AI Research
-🔹 Hands-on experience with Python, R, Java, SQL, TensorFlow, and Azure
-🔹 Strong analytical mindset with expertise in Data Visualization & Predictive Modeling
+Skills:
+Programming: Python, Java, C++, R, SQL
+Machine Learning & AI: Deep Learning, NLP, TensorFlow, PyTorch
+Data Analytics & Visualization: Tableau, Power BI, Matplotlib, Seaborn
+Cloud & Security: Microsoft Azure, Docker, Cybersecurity
+Tools & Platforms: Jupyter Notebook, MySQL, NetBeans, Figma, Visual Studio
+Algorithms & Research: Image Processing, Predictive Modeling, Statistical Analysis
 
-💻 Tech Stack & Skills:
-🚀 Programming: Python, Java, C++, R, SQL, HTML
-🚀 AI & ML: Deep Learning, NLP, TensorFlow, PyTorch, Scikit-learn
-🚀 Data Science: Data Visualization, Big Data, Predictive Modeling
-🚀 Cloud & Security: Microsoft Azure, Docker, Cybersecurity, Data Encryption
-🚀 Tools & Platforms: Power BI, Tableau, Jupyter Notebook, MySQL, Visual Studio
+Projects:
+Preventable Cancer Burden Analysis (University of Wisconsin-Milwaukee):
+- Conducted an in-depth state-level analysis of preventable cancers using statistical modeling and visualization.
+- Identified racial and socioeconomic disparities in cancer incidence across the U.S.
+- Provided actionable insights on cancer prevention strategies, optimizing resource allocation.
+Lung Cancer Detection using Deep Learning (JNTUH, India):
+- Built an InceptionV3-based model for lung nodule classification with 91% accuracy.
+- Improved diagnostic performance using feature extraction and deep learning techniques.
+Emotion Recognition using NLP (DistilBERT Model, Python):
+- Fine-tuned DistilBERT on 20,000+ Twitter messages to classify six emotions.
+- Achieved an F1-score of 92%, demonstrating strong sentiment classification capabilities.
+Searchable Encryption for Cloud Storage:
+- Developed JSP-based search queries for encrypted cloud storage, improving search efficiency by 25%.
+Heart Disease Prediction (Internship – Knowledge Solutions Ltd, India):
+- Applied Decision Trees and KNN models to analyze patient records.
+- Improved classification accuracy through feature engineering and parameter tuning.
 
-📌 Featured Projects:
-📌 Lung Cancer Detection (Deep Learning)
-🚀 Built an InceptionV3-based deep learning model that improved diagnostic accuracy to 91%, reducing false positives.
+Certifications:
+Microsoft: Microsoft Azure Data Fundamentals (badge certificate)
+Coursera (University of Michigan): Programming for Everybody (Getting Started with Python)
+Internshala: Certificate of Training for Advanced Excel, Certificate of Training for Data Science
+Knowledge Solutions (India): Certificate of Completion for Data Science and Analytics using Python and R
+LinkedIn: Getting Started with Power BI, Power BI Essential Training
 
-📌 Emotion Recognition using NLP (DistilBERT)
-🚀 Fine-tuned a DistilBERT model to classify six emotions from Twitter messages with a 92% F1-score.
-
-📌 Searchable Encryption for Cloud Storage
-🚀 Developed JSP-based secure search for encrypted cloud data, improving fuzzy search efficiency by 25%.
-
-📌 Preventable Cancer Analysis (Data Science & ML)
-🚀 Conducted in-depth data analysis on preventable cancers using statistical modeling and machine learning.
-
-(🔗 Add more links to your repositories!)
-
-📜 Certifications:
-✔ Microsoft Azure Data Fundamentals
-✔ Power BI Essential Training (LinkedIn Learning)
-✔ Data Science & Analytics using Python & R
-✔ Advanced Excel & Data Science (Internshala)
-
-📊 GitHub Stats & Activity:
-
-
-📫 Let's Connect!
-💼 LinkedIn: linkedin.com/in/pallavi-chitrada-a47388215
+Let's Connect
+💼 LinkedIn: linkedin.com/in/pallavi-chitrada
+💼 Indeed: 
 📧 Email: pallavichitrada10@gmail.com
-🌐 Portfolio (If available): pallavichitrada.com
+🌐 Github: https://github.com/PallaviChitrada10
 
-This GitHub profile README is structured to highlight your technical expertise, projects, and professional background while keeping it engaging and visually appealing. Let me know if you need customization! 🚀🔥
-
-
-Steps followed to update my profile for jobs
-
-Generate content using ChatGPT 
---prompt 
-I need to fill out my linkedin based on this profile, I am a new student graduate,
-
-make my profile professional 
-with all keywords
-I can join immediately
-make sure to add all keywords
-
-upload your current resume in the prompt
-
-update indeed profile - link 
-GitHub profile link https://github.com/PallaviChitrada10
-linkedin profile link https://www.linkedin.com/in/pallavi-chitrada
