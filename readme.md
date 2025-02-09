@@ -1,5 +1,4 @@
 Pallavi Chitrada 
-
 Data Analyst | Machine Learning Enthusiast | Python, R, SQL | Healthcare Analytics | Data Visualization | Computer Science Graduate
 
 Computer Science Master's Graduate with a strong foundation in data science, machine learning, and analytics, complemented by hands-on experience in healthcare analytics, image processing, and cloud security. Proficient in Python, R, SQL, Power BI, Tableau, and advanced statistical modeling techniques. Passionate about leveraging data-driven insights to support decision-making, enhance efficiency, and drive innovation.
