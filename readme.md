@@ -25,7 +25,7 @@ Emotion Recognition using NLP (DistilBERT Model, Python):
 - Fine-tuned DistilBERT on 20,000+ Twitter messages to classify six emotions.
 - Achieved an F1-score of 92%, demonstrating strong sentiment classification capabilities.
 
-Searchable Encryption for Cloud Storage:
+Searchable Encryption for Cloud Storage:  
 -Developed JSP-based search queries for encrypted cloud storage, improving search efficiency by 25%.
 
 Heart Disease Prediction (Internship – Knowledge Solutions Ltd, India):
