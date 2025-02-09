@@ -12,5 +12,5 @@ make sure to add all keywords
 upload your current resume in the prompt
 
 update indeed profile - link 
-GitHub profile link
-linkedin profile link 
+GitHub profile link https://github.com/PallaviChitrada10
+linkedin profile link https://www.linkedin.com/in/pallavi-chitrada
