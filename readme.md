@@ -1,8 +1,6 @@
 🚀 Pallavi Chitrada | AI & Data Science Enthusiast
 🔹 Computer Science Graduate | Machine Learning | NLP | Cybersecurity | Cloud Computing
 
-(Optional: Add a banner image here!)
-
 🌟 About Me
 Hi there! I’m Pallavi Chitrada, a Computer Science graduate passionate about AI, Machine Learning, and Data Science. I love solving real-world challenges with Deep Learning, NLP, and Predictive Analytics while leveraging Cloud Security & Cybersecurity to build robust and scalable solutions.
 
