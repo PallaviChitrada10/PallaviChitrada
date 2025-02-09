@@ -10,3 +10,7 @@ I can join immedeately
 make sure to add all keywords
 
 upload your current resume in the prompt
+
+update indeed profile - link 
+github profile link
+linkedin profile link
