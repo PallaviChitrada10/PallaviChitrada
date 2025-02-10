@@ -40,7 +40,7 @@ Knowledge Solutions (India): Certificate of Completion for Data Science and Anal
 LinkedIn: Getting Started with Power BI, Power BI Essential Training  
 
 Let's Connect  
-💼 LinkedIn: linkedin.com/in/pallavi-chitrada    
+💼 LinkedIn: https://www.linkedin.com/in/pallavi-chitrada-a47388215/    
 📧 Email: pallavichitrada10@gmail.com  
 🌐 Github: https://github.com/PallaviChitrada10  
 
