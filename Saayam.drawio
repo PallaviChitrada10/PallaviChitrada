@@ -7,20 +7,20 @@
         <mxCell id="sFwRKjwJQ-JgnLV3PxY7-1" value="&lt;font&gt;Saayam Organization&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="349" y="80" width="153" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sFwRKjwJQ-JgnLV3PxY7-4" value="Management and Business" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="90" y="140" width="150" height="30" as="geometry" />
+        <mxCell id="sFwRKjwJQ-JgnLV3PxY7-4" value="Management and Business" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=default;strokeColor=default;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="65" y="140" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sFwRKjwJQ-JgnLV3PxY7-5" value="Technical and Development" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="sFwRKjwJQ-JgnLV3PxY7-5" value="Technical and Development" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=default;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="140" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sFwRKjwJQ-JgnLV3PxY7-6" value="Leadership &amp;amp; Strategy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="130" y="190" width="60" height="30" as="geometry" />
+        <mxCell id="sFwRKjwJQ-JgnLV3PxY7-6" value="Leadership &amp;amp; Strategy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=default;strokeColor=default;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="190" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sFwRKjwJQ-JgnLV3PxY7-7" value="Operation &amp;amp; HR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="sFwRKjwJQ-JgnLV3PxY7-7" value="Operation &amp;amp; HR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=default;strokeColor=default;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sFwRKjwJQ-JgnLV3PxY7-8" value="Functional Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="40" y="190" width="60" height="30" as="geometry" />
+        <mxCell id="sFwRKjwJQ-JgnLV3PxY7-8" value="Functional Management" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=default;strokeColor=default;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="190" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sFwRKjwJQ-JgnLV3PxY7-9" value="Saayam&lt;br&gt;Product Mgnt" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="60" y="230" width="70" height="30" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="263" y="390" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jOLVGYb07EAdvfGywx12-16" value="&lt;font&gt;Saayam Community&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="638.5" y="20" width="153" height="30" as="geometry" />
+          <mxGeometry x="663.5" y="20" width="153" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jOLVGYb07EAdvfGywx12-17" value="&lt;font&gt;Saayam General&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="920" y="80" width="153" height="30" as="geometry" />
@@ -79,16 +79,16 @@
         <mxCell id="jOLVGYb07EAdvfGywx12-20" value="Saayam&lt;br&gt;Product Mgnt" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="310" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jOLVGYb07EAdvfGywx12-21" value="Data &amp;amp; AI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="jOLVGYb07EAdvfGywx12-21" value="Data &amp;amp; AI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=default;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="333" y="190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jOLVGYb07EAdvfGywx12-22" value="Other" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="jOLVGYb07EAdvfGywx12-22" value="Other" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=default;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jOLVGYb07EAdvfGywx12-23" value="DevOps &amp;amp; Security" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="190" width="60" height="30" as="geometry" />
+        <mxCell id="jOLVGYb07EAdvfGywx12-23" value="DevOps &amp;amp; Security" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=default;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="190" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jOLVGYb07EAdvfGywx12-24" value="Support" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="jOLVGYb07EAdvfGywx12-24" value="Support" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=default;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jOLVGYb07EAdvfGywx12-26" value="Saayam&lt;br&gt;Product Mgnt" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -115,11 +115,11 @@
         <mxCell id="jOLVGYb07EAdvfGywx12-33" value="Saayam&lt;br&gt;Product Mgnt" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="660" y="270" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jOLVGYb07EAdvfGywx12-35" value="Software Development" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="380" width="60" height="30" as="geometry" />
+        <mxCell id="jOLVGYb07EAdvfGywx12-35" value="Software Development" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=default;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="380" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jOLVGYb07EAdvfGywx12-36" value="Application" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="375" y="430" width="60" height="30" as="geometry" />
+        <mxCell id="jOLVGYb07EAdvfGywx12-36" value="Application" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=default;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jOLVGYb07EAdvfGywx12-37" value="Saayam&lt;br&gt;Product Mgnt" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="333" y="490" width="70" height="30" as="geometry" />
@@ -157,11 +157,11 @@
         <mxCell id="jOLVGYb07EAdvfGywx12-49" value="Saayam&lt;br&gt;Product Mgnt" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="750" y="490" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jOLVGYb07EAdvfGywx12-50" value="Lifestyle &amp;amp; Interest" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="810" y="140" width="240" height="30" as="geometry" />
+        <mxCell id="jOLVGYb07EAdvfGywx12-50" value="Lifestyle &amp;amp; Interest" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=default;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="140" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jOLVGYb07EAdvfGywx12-51" value="Regional Connets" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="960" y="140" width="240" height="30" as="geometry" />
+        <mxCell id="jOLVGYb07EAdvfGywx12-51" value="Regional Connets" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;labelBackgroundColor=none;fillColor=default;strokeColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1019" y="140" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jOLVGYb07EAdvfGywx12-54" value="Saayam&lt;br&gt;Product Mgnt" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="860" y="190" width="70" height="30" as="geometry" />
@@ -185,34 +185,34 @@
           <mxGeometry x="860" y="430" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jOLVGYb07EAdvfGywx12-61" value="Saayam&lt;br&gt;Product Mgnt" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1083" y="188" width="70" height="30" as="geometry" />
+          <mxGeometry x="1065" y="188" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jOLVGYb07EAdvfGywx12-62" value="Saayam&lt;br&gt;Product Mgnt" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1083" y="228" width="70" height="30" as="geometry" />
+          <mxGeometry x="1065" y="228" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jOLVGYb07EAdvfGywx12-63" value="Saayam&lt;br&gt;Product Mgnt" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1083" y="268" width="70" height="30" as="geometry" />
+          <mxGeometry x="1065" y="268" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jOLVGYb07EAdvfGywx12-64" value="Saayam&lt;br&gt;Product Mgnt" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1083" y="308" width="70" height="30" as="geometry" />
+          <mxGeometry x="1065" y="308" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jOLVGYb07EAdvfGywx12-65" value="Saayam&lt;br&gt;Product Mgnt" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1083" y="348" width="70" height="30" as="geometry" />
+          <mxGeometry x="1065" y="348" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jOLVGYb07EAdvfGywx12-66" value="Saayam&lt;br&gt;Product Mgnt" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1083" y="388" width="70" height="30" as="geometry" />
+          <mxGeometry x="1065" y="388" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jOLVGYb07EAdvfGywx12-67" value="Saayam&lt;br&gt;Product Mgnt" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1083" y="428" width="70" height="30" as="geometry" />
+          <mxGeometry x="1065" y="428" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jOLVGYb07EAdvfGywx12-68" value="Saayam&lt;br&gt;Product Mgnt" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1083" y="468" width="70" height="30" as="geometry" />
+          <mxGeometry x="1065" y="468" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jOLVGYb07EAdvfGywx12-69" value="Saayam&lt;br&gt;Product Mgnt" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1083" y="508" width="70" height="30" as="geometry" />
+          <mxGeometry x="1065" y="508" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jOLVGYb07EAdvfGywx12-70" value="Saayam&lt;br&gt;Product Mgnt" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1083" y="548" width="70" height="30" as="geometry" />
+          <mxGeometry x="1065" y="548" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
